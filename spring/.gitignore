@@ -1,0 +1,8 @@
+/.metadata/
+/.recommenders/
+*RemoteSystemsTempFiles*
+microservices/.metadata/
+microservices/.recommenders/
+microservices/employee-api/.mvn/
+microservices/.recommenders/
+microservices/employee-api/.mvn/
